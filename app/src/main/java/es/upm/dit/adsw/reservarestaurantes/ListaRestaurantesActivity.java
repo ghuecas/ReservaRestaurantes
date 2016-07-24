@@ -226,6 +226,8 @@ public class ListaRestaurantesActivity extends AppCompatActivity {
         {
             // TODO Auto-generated method stub
             super.onPreExecute();
+
+            estaCargando= true;
         }
 
         @Override
@@ -318,8 +320,9 @@ public class ListaRestaurantesActivity extends AppCompatActivity {
         @Override
         protected void onPostExecute(String result)
         {
-            // TODO Auto-generated method stub
             super.onPostExecute(result);
+
+            estaCargando= false;
             if (!result.equals("OK"))
             {
                 Toast.makeText(getApplicationContext(), result,
