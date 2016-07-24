@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ReservaRestaurantes</string>
+
+    <string name="nombreRestaurante">Restaurante:</string>
+    <string name="direccion">Direccion:</string>
+    <string name="telefono">Teléfono:</string>
+    <string name="tipoRestaurante">Tipo Restaurante:</string>
+    <string name="tradicional">Tradicional</string>
+    <string name="internacional">Internacional</string>
+    <string name="comidaRapida">Comida Rápida</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="hintNombreRestaurante">Nombre del restaurante</string>
+    <string name="hintDireccion">Dirección</string>
+    <string name="hintTelefono">Teléfono</string>
+    <string name="errorNombreVacio">El nombre no puede estar vacío</string>
+    <string name="errorElegirTipo">Debe elegir un tipo de restaurante</string>
+    <string name="lista_vacia">No hay restaurantes</string>
+    <string name="addItemTitle">Añadir</string>
+    <string name="sortItemsTitle">Ordenar</string>
+    <string name="loadFileTitle">Cargar</string>
+</resources>

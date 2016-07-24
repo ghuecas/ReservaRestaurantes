@@ -1,0 +1,4 @@
+3
+Mc ADSW Burguer; Avda Complutense, 30; 123456789; comida rapida
+ADSW Sushi Bar; Avda Complutense, 30; 123456789; internacional
+El Horno de ADSW; Avda Complutense, 30; 123456789; tradicional
